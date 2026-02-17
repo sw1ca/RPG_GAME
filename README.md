@@ -1,6 +1,6 @@
 # 🏜️ 2D RPG GAME
 
-![Uploading RPG-game.gif…]()
+![RPG-game](https://github.com/user-attachments/assets/8215b99c-cb35-421d-8bf6-0e679f4bc7ff)
 
 A 2D Action-RPG game engine built from scratch using C++ and SFML. The project demonstrates custom collision detection systems, enemy AI behaviors, and map generated with "Tiled".
 
